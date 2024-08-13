@@ -3,7 +3,7 @@
       "workbench.startupEditor": "none",
       "files.autoSave": "afterDelay",
   
-  
+      
       "git-commit-wizard.commitOptions": {
         "prefix": [
           {
@@ -2143,4 +2143,8 @@
       "window.titleBarStyle": "custom",
       "workbench.iconTheme": null,
       "workbench.colorTheme": "Red",
+      "git.useCommitInputAsStashMessage": true,
+      "git.verboseCommit": true,
+      "git.inputValidation": true,
+      "git.pullBeforeCheckout": true
   }
